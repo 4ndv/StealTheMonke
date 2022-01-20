@@ -4,7 +4,7 @@ Useful userscript, allowing you to steal NFTs from Twitter even easier than befo
 
 Just click on a hexagonal avatar and direct link to it will open in a separate tab. Thank you twitter for that separation!
 
-(In case you may consider [following me](https://twitter.com))
+(In case you may consider [following me](https://twitter.com/libneko))
 
 ## Installation
 
